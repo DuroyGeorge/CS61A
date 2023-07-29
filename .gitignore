@@ -2,3 +2,5 @@
 .DS_store
 .ok_history
 helper.py
+.ok_messages
+.ok_storage.db
